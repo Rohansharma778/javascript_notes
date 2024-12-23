@@ -1,0 +1,25 @@
+/*counter project
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btncontainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    background-color: rgb(0, 255, 255);
+    font-size: 1.5em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color:  rgb(87, 213, 213);
+} */
+body{
+    font-family: Verdana;
+    font-size: 2em;
+}
